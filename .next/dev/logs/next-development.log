@@ -1,0 +1,57 @@
+{"timestamp":"00:00:11.487","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:39.433","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:52.220","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:04.471","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:04.502","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:07.647","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:07.653","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.031","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.037","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.316","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.320","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.614","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:08.618","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:09.316","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:09.331","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:09.697","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:09.705","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.098","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.101","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.371","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.374","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.820","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:10.822","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:11.265","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:11.268","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:11.637","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/dashboard. Falling back to browser navigation. TypeError: Failed to fetch"}
+{"timestamp":"00:01:11.638","source":"Server","level":"ERROR","message":"[browser] \"Failed to fetch RSC payload for http://localhost:3000/dashboard. Falling back to browser navigation.\" \"\\u001b[31mTypeError: Failed to fetch\\u001b[39m\""}
+{"timestamp":"00:01:11.772","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:11.788","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:13.089","source":"Browser","level":"ERROR","message":"Uncaught Error: DATABASE_URL is required\n    at <unknown> (src/db/index.ts:7:9)\n  \u001b[90m 5 |\u001b[0m\n  \u001b[90m 6 |\u001b[0m \u001b[36mif\u001b[0m (!databaseUrl) {\n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m 7 |\u001b[0m   \u001b[36mthrow\u001b[0m \u001b[36mnew\u001b[0m \u001b[33mError\u001b[0m(\u001b[32m\"DATABASE_URL is required\"\u001b[0m);\n  \u001b[90m   |\u001b[0m         \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m 8 |\u001b[0m }\n  \u001b[90m 9 |\u001b[0m\n  \u001b[90m10 |\u001b[0m \u001b[36mconst\u001b[0m globalForDb = globalThis \u001b[36mas\u001b[0m \u001b[36mtypeof\u001b[0m globalThis & {"}
+{"timestamp":"00:01:13.090","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: DATABASE_URL is required\\u001b[39m\\n\\u001b[31m    at <unknown> (src/db/index.ts:7:9)\\u001b[39m\\n  \\u001b[90m 5 |\\u001b[0m\\n  \\u001b[90m 6 |\\u001b[0m \\u001b[36mif\\u001b[0m (!databaseUrl) {\\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m 7 |\\u001b[0m   \\u001b[36mthrow\\u001b[0m \\u001b[36mnew\\u001b[0m \\u001b[33mError\\u001b[0m(\\u001b[32m\\\"DATABASE_URL is required\\\"\\u001b[0m);\\n  \\u001b[90m   |\\u001b[0m         \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m 8 |\\u001b[0m }\\n  \\u001b[90m 9 |\\u001b[0m\\n  \\u001b[90m10 |\\u001b[0m \\u001b[36mconst\\u001b[0m globalForDb = globalThis \\u001b[36mas\\u001b[0m \\u001b[36mtypeof\\u001b[0m globalThis & {\""}
+{"timestamp":"00:02:11.116","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:00.261","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:08:11.804","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:16:28.342","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\User\\\\Desktop\\\\feeshield-ai-fintech-platform\\\\node_modules\\\\y18n\\\\build\")."}
+{"timestamp":"00:16:29.253","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\User\\\\Desktop\\\\feeshield-ai-fintech-platform\\\\node_modules\\\\wrap-ansi\\\\node_modules\\\\ansi-styles\\\\license\")."}
+{"timestamp":"00:16:31.253","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (3.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\User\\\\Desktop\\\\feeshield-ai-fintech-platform\\\\node_modules\\\\strip-ansi\\\\readme.md\")."}
+{"timestamp":"00:16:47.709","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\User\\\\Desktop\\\\feeshield-ai-fintech-platform\\\\node_modules\\\\yargs\\\\locales\\\\hu.json\")."}
+{"timestamp":"00:16:48.855","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\User\\\\Desktop\\\\feeshield-ai-fintech-platform\\\\node_modules\\\\yargs\\\\lib\\\\platform-shims\")."}
+{"timestamp":"00:26:31.362","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:28:37.109","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:28:40.976","source":"Server","level":"ERROR","message":"(node:14196) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)"}
+{"timestamp":"00:28:43.538","source":"Server","level":"ERROR","message":"⨯ Error: Failed query: select \"id\", \"email\", \"created_at\", \"retention_days\", \"store_evidence\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 9336c246-dbfd-4d2b-b139-b81b9a167ab5,1"}
+{"timestamp":"00:28:52.273","source":"Server","level":"LOG","message":"○ Compiling /analyze ..."}
+{"timestamp":"00:28:53.237","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:28:54.394","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:52:08.342","source":"Server","level":"LOG","message":"○ Compiling /api/documents/upload ..."}
+{"timestamp":"00:52:30.470","source":"Server","level":"ERROR","message":"Upload failed: \"Failed query: select \\\"id\\\", \\\"email\\\", \\\"created_at\\\", \\\"retention_days\\\", \\\"store_evidence\\\" from \\\"users\\\" where \\\"users\\\".\\\"id\\\" = $1 limit $2\\nparams: 9336c246-dbfd-4d2b-b139-b81b9a167ab5,1\""}
+{"timestamp":"00:52:39.154","source":"Server","level":"ERROR","message":"Upload failed: \"Failed query: select \\\"id\\\", \\\"email\\\", \\\"created_at\\\", \\\"retention_days\\\", \\\"store_evidence\\\" from \\\"users\\\" where \\\"users\\\".\\\"id\\\" = $1 limit $2\\nparams: 9336c246-dbfd-4d2b-b139-b81b9a167ab5,1\""}
+{"timestamp":"00:58:26.686","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"01:26:04.424","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:26:10.838","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:26:10.842","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:28:08.901","source":"Server","level":"LOG","message":"○ Compiling /api/documents/analyze ..."}
+{"timestamp":"01:31:11.125","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:36:33.313","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:39:04.724","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
